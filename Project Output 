@@ -9,3 +9,5 @@ Rows           : 40
 Columns        : 5
 Missing values : 0
 Athletes       : 4
+
+The exact z-scores are calculated from the complete dataset.
