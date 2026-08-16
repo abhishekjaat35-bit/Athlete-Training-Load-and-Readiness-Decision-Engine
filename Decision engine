@@ -1,0 +1,21 @@
+The system combines three signals:
+Signal 1 — Training load
+|Load Z-score| < 1.5     NORMAL
+1.5–2.0                  WATCH
+≥ 2.0                    HIGH
+Signal 2 — Readiness
+Because low readiness is the concerning direction:
+Readiness Z > -1.5       NORMAL
+-2.0 to -1.5             WATCH
+≤ -2.0                   LOW
+Signal 3 — Load change
+< 10%                    NORMAL
+10–20%                   WATCH
+≥ 20%                    HIGH
+The three signals contribute to a decision score.
+Decision Score
+      ↓
+0–1   GREEN
+2–4   YELLOW
+5+    RED
+These are demonstration rules, not clinically validated athlete-risk thresholds.
