@@ -1,0 +1,20 @@
+Training load:
+Training Load = Duration × sRPE
+
+Example:
+80 × 9 = 720 AU
+The system then calculates Rahul's
+
+individual baseline:
+Historical Rahul loads
+        ↓
+Mean
+        ↓
+Training-load baseline
+
+And readiness baseline:
+Historical Rahul readiness
+        ↓
+Mean
+        ↓
+Readiness baseline
