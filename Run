@@ -1,0 +1,9 @@
+Run
+
+python athlete_decision_engine.py
+
+Check that these files appear:
+
+athlete_decision_results.csv
+athlete_monitoring_dashboard.png
+load_vs_readiness.png
